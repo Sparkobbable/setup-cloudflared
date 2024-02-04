@@ -1,3 +1,5 @@
+# FORKED - Only installs cloudflared client, doesnt build up a tunnel connection
+
 # Setup cloudflared for GitHub Actions
 Setup [Cloudflare Tunnel client](https://github.com/cloudflare/cloudflared) for GitHub Actions.
 
